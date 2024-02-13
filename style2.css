@@ -3,6 +3,7 @@ body {
     font-weight: 600;
     background: linear-gradient(to top,rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),url(uss.jpg);
     padding-top: 30px;
+    padding-bottom: 30px;
 }
 
 .xx {
